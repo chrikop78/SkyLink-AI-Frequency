@@ -47,6 +47,19 @@ opens up, in my view, an extremely exciting field for new ways of thinking.
 
 SkyLink-AI-Frequency is explicitly intended as an open community project for radio amateurs, developers, SDR enthusiasts, and technically curious contributors.
 
+## What this project is not
+
+At its current stage, SkyLink-AI-Frequency is:
+
+- not a finished product
+- not a ready-to-deploy emergency communication system
+- not a completed technical solution
+- not an autonomous radio AI
+- not legal advice
+- not a project intended to bypass existing legal or regulatory frameworks
+
+At this stage, it is an open, structured space for thinking, discussion, and development around a technical vision in the context of amateur radio.
+
 ## Important note
 
 Anyone who wishes to actively participate later in technical implementation, testing, or radio-related experimentation must independently review and comply with the applicable national legal and regulatory requirements of their own country.
