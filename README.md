@@ -16,6 +16,11 @@ This repository is intended as a public starting point for:
 - [English documentation](docs/en/README.md)
 - [Deutsche Dokumentation](docs/de/README.md)
 
+## Contribution / Mitwirkung
+
+- [Contribution guidelines (English)](CONTRIBUTING.md)
+- [Mitwirkungs-Hinweise (Deutsch)](docs/de/CONTRIBUTING.de.md)
+
 ## Project idea
 
 The vision behind SkyLink-AI-Frequency is to explore how AI-assisted systems could support the development of experimental digital communication approaches in amateur radio.
