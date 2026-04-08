@@ -1,8 +1,8 @@
-# SkyLink-AI-Frequency
+# OpenHF-Systems
 
 > **“The sky is where mankind became limitless.”**
 
-SkyLink-AI-Frequency is an open, collaborative project for AI-assisted experimental communication modes in amateur radio.
+OpenHF-Systems is an open, collaborative project for AI-assisted experimental communication modes in amateur radio.
 
 This repository is intended as a public starting point for:
 - radio amateurs
@@ -23,7 +23,7 @@ This repository is intended as a public starting point for:
 
 ## Project idea
 
-The vision behind SkyLink-AI-Frequency is to explore how AI-assisted systems could support the development of experimental digital communication approaches in amateur radio.
+The vision behind OpenHF-Systems is to explore how AI-assisted systems could support the development of experimental digital communication approaches in amateur radio.
 
 The core idea is not simply to choose between existing modes, but to think further:
 AI-supported operator systems could one day help analyze signals, compare propagation behavior, coordinate technical parameters, and support the controlled development of new or combined digital transmission approaches under human supervision.
